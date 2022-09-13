@@ -1,11 +1,11 @@
 """ Store global constants """
 # LEDmatrix configuration
-CHAIN_LENGTH = 3
+CHAIN_LENGTH = 1
 PARALLEL_CHAINS = 2
 LED_BRIGHTNESS = 100
 
 # The dimensions of the board
-BOARD_WIDTH = 96
+BOARD_WIDTH = 64
 BOARD_HEIGHT = 64
 
 # Game properties
